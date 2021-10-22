@@ -2,7 +2,7 @@
 
 ### UML
 
-![UML](images/UML.jpeg)
+![UML](images/UML.png)
 
 ### ERD
 

@@ -2,12 +2,12 @@
 
 ### UML
 
-<img src="https://lucid.app/documents/embeddedchart/1fe72eab-d8c5-4e61-ba60-7a36dcb2c477" style="width: 640px; height: 480px; margin: 10px; position: relative;"></img>
+![UML](images/UML.jpeg)
 
 ### ERD
 
-<img style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/2b9924ee-fb2f-4fab-bcd1-8643e0d98fc2" id="aXOkAv7.iga0"></iframe></img>
+![ERD](images/ERD.png)
 
 ### Relational Schema
 
-<img style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/2b9924ee-fb2f-4fab-bcd1-8643e0d98fc2" id="GXOkw5CyP2yX"></iframe></img>
+![Relational Schema](images/RelationalSchema.png)
